@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="bai 1"/>
+        <attribute name="authors" value="HP"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-10-07 07:43:02 AM"/>
+        <attribute name="created" value="SFA7REVTS1RPUC1DQU5OM1JROzIwMjUtMTAtMDc7MDc6MTM6MjYgQU07MjUwMg=="/>
+        <attribute name="edited" value="SFA7REVTS1RPUC1DQU5OM1JROzIwMjUtMTAtMDc7MDc6NDM6MDIgQU07MTsyNjA3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="" newline="True"/>
+            <output expression="&quot;Sinh vien: Hoang Trung Do&quot;" newline="True"/>
+            <output expression="&quot;MSSV: 245752021610066&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
