@@ -1,2 +1,2 @@
-Hoàng Trung Đô file thực hành 1 bài 2,3
+Hoàng Trung Đô file thực hành kỹ thuật lập trình
 
