@@ -1,5 +1,0 @@
-a = input("Nhập một chuỗi: ")
-b = a.split()
-print("Danh sách từ:", b)
-c = " ".join(b)
-print("Chuỗi sau khi ghép lại:", c)
